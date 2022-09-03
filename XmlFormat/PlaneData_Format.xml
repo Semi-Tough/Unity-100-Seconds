@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PlaneData>
+    <PlaneInfos>
+        <PlaneInfo>
+            <Hp></Hp>
+            <Speed></Speed>
+            <Volume></Volume>
+            <ResPath></ResPath>
+            <LocalScale></LocalScale>
+        </PlaneInfo>
+        <PlaneInfo>
+            <Hp></Hp>
+            <Speed></Speed>
+            <Volume></Volume>
+            <ResPath></ResPath>
+            <LocalScale></LocalScale>
+        </PlaneInfo>
+    </PlaneInfos>
+</PlaneData>
+    

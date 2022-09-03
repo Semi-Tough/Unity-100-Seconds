@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BulletData>
+    <BulletInfos>
+        <BulletInfo>
+            <Id></Id>
+            <Type></Type>
+            <ForwardSpeed></ForwardSpeed>
+            <RightSpeed></RightSpeed>
+            <RotateSpeed></RotateSpeed>
+            <BulletPath></BulletPath>
+            <EffectPath></EffectPath>
+            <LifeTime></LifeTime>
+        </BulletInfo>
+        <BulletInfo>
+            <Id></Id>
+            <Type></Type>
+            <ForwardSpeed></ForwardSpeed>
+            <RightSpeed></RightSpeed>
+            <RotateSpeed></RotateSpeed>
+            <BulletPath></BulletPath>
+            <EffectPath></EffectPath>
+            <LifeTime></LifeTime>
+        </BulletInfo>
+    </BulletInfos>
+</BulletData>

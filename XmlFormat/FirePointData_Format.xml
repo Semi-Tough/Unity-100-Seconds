@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FirePointData>
+    <FirePointInfos>
+        <FirePointInfo>
+            <Id></Id>
+            <Type></Type>
+            <Num></Num>
+            <Cd></Cd>
+            <Ids></Ids>
+            <Delay></Delay>
+        </FirePointInfo>
+        <FirePointInfo>
+            <Id></Id>
+            <Type></Type>
+            <Num></Num>
+            <Cd></Cd>
+            <Ids></Ids>
+            <Delay></Delay>
+        </FirePointInfo>
+    </FirePointInfos>
+</FirePointData>
